@@ -17,7 +17,7 @@ Beautifully animated with a calm productivity vibe — save, view, and delete yo
 
 ## 📸 Preview
 
-(file:///Users/dhruvmehra/Desktop/Reactjs/Notes/notes-app/assets/Screenshot%202025-11-08%20at%208.07.46%E2%80%AFPM.png)
+![alt text](image.png)
 
 > _“Every note starts with a thought — keep writing, keep growing.”_ 🌿
 
